@@ -35,7 +35,7 @@ const Nav = () => {
                 <li key={item.label}>
                   <a
                     href={item.href}
-                    className={`text-lg text-gray-700 font-semibold hover:text-blue-600`}
+                    className={`text-lg text-gray-700 font-semibold hover:text-blue-500`}
                   >
                     {item.label}
                   </a>
